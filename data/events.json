@@ -2,7 +2,42 @@
 "events":[
   {
     "name":"Apple Keynote",
-    "location":"Atlanta, GA",
+    "organizer": "Jane Doe",
+    "location": {
+      "state": "GA",
+      "city": "Atlanta",
+      "place": "Coolray Field"
+    },
+    "date":"2021-10-17",
+    "length": 1,
+    "cost": 100,
+    "size": 300,
+    "image":"images/event-title.jpg",
+    "lastName":"Doe"
+  },
+  {
+    "name":"Apple Keynote",
+    "organizer": "Jane Doe",
+    "location": {
+      "state": "GA",
+      "city": "Atlanta",
+      "place": "Coolray Field"
+    },
+    "date":"2021-10-17",
+    "length": 1,
+    "cost": 100,
+    "size": 300,
+    "image":"images/event-title.jpg",
+    "lastName":"Doe"
+  },
+  {
+    "name":"Apple Keynote",
+    "organizer": "Jane Doe",
+    "location": {
+      "state": "GA",
+      "city": "Atlanta",
+      "place": "Coolray Field"
+    },
     "date":"2021-10-17",
     "length": 1,
     "cost": 100,
