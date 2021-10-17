@@ -12,7 +12,7 @@
     "length": 1,
     "cost": 100,
     "size": 300,
-    "image":"images/event-title.jpg",
+    "image":"images/event-bg1.jpg",
     "lastName":"Doe"
   },
   {
@@ -27,7 +27,7 @@
     "length": 1,
     "cost": 100,
     "size": 300,
-    "image":"images/event-title.jpg",
+    "image":"images/event-bg2.jpg",
     "lastName":"Doe"
   },
   {
@@ -42,7 +42,7 @@
     "length": 1,
     "cost": 100,
     "size": 300,
-    "image":"images/event-title.jpg",
+    "image":"images/event-bg1.jpg",
     "lastName":"Doe"
   }
 ]
