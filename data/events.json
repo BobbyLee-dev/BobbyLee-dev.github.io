@@ -1,19 +1,88 @@
 {
 "events":[
+    {
+    "name":"JAMstack Conf",
+    "organizer": "Bobby Lee",
+    "location": {
+      "state": "CA",
+      "city": "San Diego",
+      "place": "Events Center"
+    },
+    "date":"2021-04-21",
+    "length": 8,
+    "cost": 100,
+    "size": 1000,
+    "image":"images/event-bg1.jpg"
+  },
   {
-    "name":"Apple Keynote",
-    "organizer": "Jane Doe",
+    "name":"Basic Title that Truncates When it goes to long",
+    "organizer": "Eric Chan",
+    "location": {
+      "state": "NV",
+      "city": "Reno",
+      "place": "Reno Events Center"
+    },
+    "date":"2021-05-28",
+    "length": 2.5,
+    "cost": 100,
+    "size": 500,
+    "image":"images/event-bg2.jpg"
+  },
+  {
+    "name":"Next.js Conf",
+    "organizer": "Bobby Lee",
+    "location": {
+      "state": "NV",
+      "city": "Reno",
+      "place": "Reno Art Museum"
+    },
+    "date":"2021-06-02",
+    "length": 4,
+    "cost": 50,
+    "size": 300,
+    "image":"images/event-bg1.jpg"
+  },
+  {
+    "name":"Vue Conf",
+    "organizer": "Evan You",
+    "location": {
+      "state": "NY",
+      "city": "New York",
+      "place": "Madison Square Garden"
+    },
+    "date":"2021-07-06",
+    "length": 8,
+    "cost": 0,
+    "size": 1500,
+    "image":"images/event-bg1.jpg"
+  },
+  {
+    "name":"React Conf",
+    "organizer": "Kent C. Dodds",
+    "location": {
+      "state": "UT",
+      "city": "Salt Lake City",
+      "place": "Snowbird"
+    },
+    "date":"2021-08-01",
+    "length": 2,
+    "cost": 100,
+    "size": 100,
+    "image":"images/event-bg2.jpg"
+  },
+  {
+    "name":"Basic Title That Truncates When it goes to long",
+    "organizer": "Eric Chan",
     "location": {
       "state": "GA",
       "city": "Atlanta",
-      "place": "Coolray Field"
+      "place": "Atlanta Symphony Orchestra"
     },
-    "date":"2021-10-17",
-    "length": 1,
+    "date":"2021-09-16",
+    "length": 2,
     "cost": 100,
     "size": 300,
-    "image":"images/event-bg1.jpg",
-    "lastName":"Doe"
+    "image":"images/event-bg1.jpg"
   },
   {
     "name":"Apple Keynote",
@@ -24,11 +93,52 @@
       "place": "Coolray Field"
     },
     "date":"2021-10-17",
-    "length": 1,
+    "length": 0.5,
     "cost": 100,
     "size": 300,
-    "image":"images/event-bg2.jpg",
-    "lastName":"Doe"
+    "image":"images/event-bg1.jpg"
+  },
+  {
+    "name":"Basic Title that Truncates When it goes to long",
+    "organizer": "Eric Chan",
+    "location": {
+      "state": "GA",
+      "city": "Atlanta",
+      "place": "Atlanta Symphony Orchestra"
+    },
+    "date":"2021-11-19",
+    "length": 2,
+    "cost": 100,
+    "size": 500,
+    "image":"images/event-bg2.jpg"
+  },
+  {
+    "name":"Node, NPM, and you",
+    "organizer": "Jerry Head",
+    "location": {
+      "state": "GA",
+      "city": "Atlanta",
+      "place": "SunTrust Plaza"
+    },
+    "date":"2021-12-22",
+    "length": 1,
+    "cost": 50,
+    "size": 300,
+    "image":"images/event-bg1.jpg"
+  },
+  {
+    "name":"Facebook Developer Conference",
+    "organizer": "Ryan Bruzan",
+    "location": {
+      "state": "GA",
+      "city": "Atlanta",
+      "place": "191 Peachtree Tower"
+    },
+    "date":"2022-01-06",
+    "length": 8,
+    "cost": 0,
+    "size": 400,
+    "image":"images/event-bg1.jpg"
   },
   {
     "name":"Apple Keynote",
@@ -38,12 +148,109 @@
       "city": "Atlanta",
       "place": "Coolray Field"
     },
-    "date":"2021-10-17",
-    "length": 1,
+    "date":"2022-02-11",
+    "length": 0.5,
     "cost": 100,
     "size": 300,
-    "image":"images/event-bg1.jpg",
-    "lastName":"Doe"
+    "image":"images/event-bg2.jpg"
+  },
+  {
+    "name":"Basic Title That Truncates When it goes to long",
+    "organizer": "Eric Chan",
+    "location": {
+      "state": "GA",
+      "city": "Atlanta",
+      "place": "Atlanta Symphony Orchestra"
+    },
+    "date":"2022-03-16",
+    "length": 2,
+    "cost": 100,
+    "size": 300,
+    "image":"images/event-bg1.jpg"
+  },
+  {
+    "name":"JAMstack Conf",
+    "organizer": "Bobby Lee",
+    "location": {
+      "state": "CA",
+      "city": "San Diego",
+      "place": "Events Center"
+    },
+    "date":"2022-04-21",
+    "length": 8,
+    "cost": 100,
+    "size": 1000,
+    "image":"images/event-bg1.jpg"
+  },
+  {
+    "name":"Basic Title that Truncates When it goes to long",
+    "organizer": "Eric Chan",
+    "location": {
+      "state": "NV",
+      "city": "Reno",
+      "place": "Reno Events Center"
+    },
+    "date":"2022-05-28",
+    "length": 2.5,
+    "cost": 100,
+    "size": 500,
+    "image":"images/event-bg2.jpg"
+  },
+  {
+    "name":"Next.js Conf",
+    "organizer": "Bobby Lee",
+    "location": {
+      "state": "NV",
+      "city": "Reno",
+      "place": "Reno Art Museum"
+    },
+    "date":"2022-06-02",
+    "length": 4,
+    "cost": 50,
+    "size": 300,
+    "image":"images/event-bg1.jpg"
+  },
+  {
+    "name":"Vue Conf",
+    "organizer": "Evan You",
+    "location": {
+      "state": "NY",
+      "city": "New York",
+      "place": "Madison Square Garden"
+    },
+    "date":"2022-07-06",
+    "length": 8,
+    "cost": 0,
+    "size": 1500,
+    "image":"images/event-bg1.jpg"
+  },
+  {
+    "name":"React Conf",
+    "organizer": "Kent C. Dodds",
+    "location": {
+      "state": "UT",
+      "city": "Salt Lake City",
+      "place": "Snowbird"
+    },
+    "date":"2022-08-01",
+    "length": 2,
+    "cost": 100,
+    "size": 100,
+    "image":"images/event-bg2.jpg"
+  },
+  {
+    "name":"Basic Title That Truncates When it goes to long",
+    "organizer": "Eric Chan",
+    "location": {
+      "state": "GA",
+      "city": "Atlanta",
+      "place": "Atlanta Symphony Orchestra"
+    },
+    "date":"2022-09-16",
+    "length": 2,
+    "cost": 100,
+    "size": 300,
+    "image":"images/event-bg1.jpg"
   }
 ]
 }
