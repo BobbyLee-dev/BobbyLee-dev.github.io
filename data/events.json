@@ -150,7 +150,7 @@
     },
     "date":"2022-02-11",
     "length": 0.5,
-    "cost": 100,
+    "cost": 200,
     "size": 300,
     "image":"images/event-bg2.jpg"
   },
@@ -178,7 +178,7 @@
     },
     "date":"2022-04-21",
     "length": 8,
-    "cost": 100,
+    "cost": 300,
     "size": 1000,
     "image":"images/event-bg1.jpg"
   },
@@ -192,7 +192,7 @@
     },
     "date":"2022-05-28",
     "length": 2.5,
-    "cost": 100,
+    "cost": 500,
     "size": 500,
     "image":"images/event-bg2.jpg"
   },
@@ -234,7 +234,7 @@
     },
     "date":"2022-08-01",
     "length": 2,
-    "cost": 100,
+    "cost": 600,
     "size": 100,
     "image":"images/event-bg2.jpg"
   },
@@ -248,7 +248,7 @@
     },
     "date":"2022-09-16",
     "length": 2,
-    "cost": 100,
+    "cost": 700,
     "size": 300,
     "image":"images/event-bg1.jpg"
   }
